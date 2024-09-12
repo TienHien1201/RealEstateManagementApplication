@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormNhaHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromDanhMuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromHD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromNguyenLieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromNhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromQuyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromSuaXoaBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromSuaXoaDanhMuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromSuaXoaNguyenLieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromSuaXoaNhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromSuaXoaQuyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromThemBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromThemDanhMuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromThemNguyenLieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromThemQuyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromTheomNhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromTrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserBan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserMonAn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
